@@ -1,3 +1,7 @@
+Name: Faisal Khan
+Enrollment: 01-131232-105
+Faculty: Engr. Saad Mazhar Khan
+
 # AI Lab 15: KNN Medical Diagnosis System
 
 This repository contains the complete implementation of **Lab 13: K-Nearest Neighbors (KNN)** focused on medical diagnostics, specifically evaluating a classification pipeline for breast cancer data. 
